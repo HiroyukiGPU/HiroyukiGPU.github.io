@@ -1,0 +1,20 @@
+{
+  "slug": "kamiyama-ec-20260420",
+  "title": "高専内のメルカリ的な食品アプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://kamiyama-ec-20260420.web.app/",
+    "github": null
+  },
+  "sections": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "www",
+  "title": "figmaでリアルタイムにドル円を換算してスライドに追加してくれるプラグイン",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "links": {
+    "website": "https://www.figma.com/community/plugin/1627245008897106712",
+    "github": null
+  },
+  "sections": []
+}

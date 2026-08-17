@@ -1,0 +1,20 @@
+{
+  "slug": "on1-e04c2",
+  "title": "3on1のマッチングアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Firebase",
+    "Nuxt.js",
+    "Vue.js"
+  ],
+  "links": {
+    "website": "https://on1-e04c2.web.app/",
+    "github": null
+  },
+  "sections": []
+}

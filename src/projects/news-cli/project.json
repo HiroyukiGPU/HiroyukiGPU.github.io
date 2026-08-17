@@ -1,0 +1,18 @@
+{
+  "slug": "news-cli",
+  "title": "CLIでニュースが見れる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Go"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/news_CLI"
+  },
+  "sections": []
+}

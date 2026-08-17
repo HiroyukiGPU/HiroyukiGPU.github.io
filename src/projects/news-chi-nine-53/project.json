@@ -1,0 +1,22 @@
+{
+  "slug": "news-chi-nine-53",
+  "title": "自分の興味に合わせて毎朝の技術ニュースを自動で届ける、個人向けニュース朝刊サイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "React",
+    "TypeScript"
+  ],
+  "links": {
+    "website": "https://news-chi-nine-53.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "one-second-sense",
+  "title": "自分思っている10秒が実際の10秒とどれぐらい違うか",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-11",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/one-second-sense/",
+    "github": null
+  },
+  "sections": []
+}

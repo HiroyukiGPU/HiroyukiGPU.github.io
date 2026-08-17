@@ -1,0 +1,20 @@
+{
+  "slug": "language-discrimination",
+  "title": "ファイルを突っ込んだらなんの言語が使われているか判別してくれるアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-15",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/language_discrimination"
+  },
+  "sections": []
+}

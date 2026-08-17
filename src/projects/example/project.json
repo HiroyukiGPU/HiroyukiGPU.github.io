@@ -1,0 +1,173 @@
+{
+  "slug": "example",
+  "title": "Field Notes",
+  "shortDescription": "散策中に見つけた場所と音を、静かに記録するモバイルフィールドノート。",
+  "description": "街を歩く人のための、位置・写真・音をひとつの記憶として残せるプロダクトです。JSONセクションシステムの全主要コンポーネントを紹介するサンプルでもあります。",
+  "status": "released",
+  "date": "2026-08-17",
+  "featured": false,
+  "category": "Experiment",
+  "thumbnail": "./cover.png",
+  "tech": [
+    "React",
+    "TypeScript",
+    "Firebase"
+  ],
+  "links": {
+    "website": "https://example.com",
+    "github": "https://github.com/HiroyukiGPU"
+  },
+  "sections": [
+    {
+      "component": "hero",
+      "props": {
+        "eyebrow": "Product overview",
+        "heading": "記憶を、場所に置いていく。",
+        "body": "目的地を探すためではなく、その途中にあるものを残すための地図です。",
+        "image": "./image-1.png"
+      }
+    },
+    {
+      "component": "story",
+      "props": {
+        "heading": "Why I built it",
+        "problem": "旅の記憶が写真、位置情報、ボイスメモに分かれ、あとから場所の空気まで思い出すことが難しくなっていました。",
+        "idea": "場所を中心に写真と音をまとめれば、記録した瞬間の文脈を残せると考えました。",
+        "implementation": "Reactで記録フローを構築し、Firebaseで位置・写真・音声を同期しました。",
+        "result": "平均記録時間を短くしながら、振り返ったときの情報量を増やせました。"
+      }
+    },
+    {
+      "component": "text",
+      "props": {
+        "heading": "About",
+        "body": "写真フォルダやボイスメモに散らばる旅の記憶を、場所という共通の軸でまとめ直しました。記録するときも、あとから振り返るときも、操作が意識に割り込まないことを重視しています。"
+      }
+    },
+    {
+      "component": "textImage",
+      "props": {
+        "heading": "開発背景",
+        "body": "情報量の多い地図UIに、余白とタイポグラフィのリズムを持ち込みました。主要操作は親指が届く範囲に集約しています。",
+        "image": "./image-2.png",
+        "alt": "Field Notesの地図画面",
+        "imagePosition": "right"
+      }
+    },
+    {
+      "component": "image",
+      "props": {
+        "image": "./image-1.png",
+        "alt": "記録詳細画面",
+        "caption": "音、写真、短い言葉をひとつの記録として表示。"
+      }
+    },
+    {
+      "component": "largeImage",
+      "props": {
+        "image": "./cover.png",
+        "alt": "Field Notesの画面一覧",
+        "caption": "探索から記録まで、一貫した視覚言語で設計しました。"
+      }
+    },
+    {
+      "component": "gallery",
+      "props": {
+        "heading": "Interface details",
+        "images": [
+          {
+            "src": "./image-1.png",
+            "alt": "記録画面"
+          },
+          {
+            "src": "./image-2.png",
+            "alt": "地図画面"
+          }
+        ]
+      }
+    },
+    {
+      "component": "video",
+      "props": {
+        "heading": "Prototype",
+        "src": "./demo.mp4",
+        "poster": "./cover.png",
+        "caption": "操作プロトタイプ。サンプルでは動画ファイルを差し替えて使用します。"
+      }
+    },
+    {
+      "component": "features",
+      "props": {
+        "heading": "Core features",
+        "items": [
+          {
+            "title": "Place-based notes",
+            "description": "位置、写真、音声をひとつの記録として保存。"
+          },
+          {
+            "title": "Quiet discovery",
+            "description": "近くの記録を、通知に追われず自分のペースで発見。"
+          },
+          {
+            "title": "Private by default",
+            "description": "公開範囲を記録ごとに明確に選択できます。"
+          }
+        ]
+      }
+    },
+    {
+      "component": "techStack",
+      "props": {
+        "heading": "Technology",
+        "items": [
+          {
+            "name": "React",
+            "purpose": "画面と状態を、小さく再利用可能な単位で構築。"
+          },
+          {
+            "name": "TypeScript",
+            "purpose": "位置・メディアデータを型安全に扱うために使用。"
+          },
+          {
+            "name": "Firebase",
+            "purpose": "認証、リアルタイム同期、メディア保存を担当。"
+          }
+        ]
+      }
+    },
+    {
+      "component": "metrics",
+      "props": {
+        "heading": "Outcome",
+        "items": [
+          {
+            "value": "42%",
+            "label": "記録完了率の向上"
+          },
+          {
+            "value": "1.8s",
+            "label": "平均記録時間"
+          },
+          {
+            "value": "4.7/5",
+            "label": "テストユーザー評価"
+          }
+        ]
+      }
+    },
+    {
+      "component": "links",
+      "props": {
+        "heading": "Explore the project",
+        "website": "https://example.com",
+        "github": "https://github.com/HiroyukiGPU",
+        "links": [
+          {
+            "label": "Design notes",
+            "url": "https://example.com"
+          }
+        ]
+      }
+    }
+  ]
+}

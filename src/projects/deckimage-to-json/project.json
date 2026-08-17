@@ -1,0 +1,18 @@
+{
+  "slug": "deckimage-to-json",
+  "title": "ホロカデッキjson化ツール",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/DeckImage_to_Json"
+  },
+  "sections": []
+}

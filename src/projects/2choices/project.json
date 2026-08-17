@@ -1,0 +1,20 @@
+{
+  "slug": "2choices",
+  "title": "２択の意思決定をしてくれるアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/2choices"
+  },
+  "sections": []
+}

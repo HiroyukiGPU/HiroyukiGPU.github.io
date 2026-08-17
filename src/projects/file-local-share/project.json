@@ -1,0 +1,18 @@
+{
+  "slug": "file-local-share",
+  "title": "フィルをローカルサーバーを立てて共有できるアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-25",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Node.js"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/file_local_share"
+  },
+  "sections": []
+}

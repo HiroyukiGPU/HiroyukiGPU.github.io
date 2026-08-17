@@ -1,0 +1,109 @@
+{
+  "slug": "remotemac",
+  "title": "RemoteMac",
+  "shortDescription": "iPhoneを、同じWi-Fi上にあるMacのトラックパッドとキーボードとして使うアプリ。",
+  "description": "iPhoneから同一LAN内のMacを操作するためのMVPです。iPhoneアプリとmacOSメニューバー常駐Helperを組み合わせ、カーソル操作、クリック、スクロール、文字入力、キーボード操作を実現します。",
+  "status": "released",
+  "date": "2026-08-10",
+  "featured": true,
+  "category": "Mobile",
+  "thumbnail": null,
+  "tech": [
+    "Swift",
+    "SwiftUI",
+    "UIKit",
+    "Network.framework"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/RemoteMac"
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "Overview",
+        "body": "RemoteMacは、iPhoneをMacのワイヤレストラックパッドとキーボードとして使うためのアプリです。iPhone側のRemoteMacIOSと、Mac側で入力を実行するRemoteMacHelper、両者で利用する通信・セキュリティコードで構成されています。対応環境はiOS 17以上、macOS 14以上です。"
+      }
+    },
+    {
+      "component": "story",
+      "props": {
+        "heading": "Why I built it",
+        "problem": "iPhoneからMacを操作するためには、入力を送るiPhoneアプリだけでなく、Mac側で安全に入力を実行する仕組みが必要でした。",
+        "idea": "対象を同一LAN内のトラックパッドとキーボード操作に絞り、iPhoneアプリとMacのメニューバー常駐Helperを組み合わせる構成にしました。",
+        "implementation": "両アプリはCodableなRemoteMessageをJSONへ変換し、4バイトのlength-prefixを付けたTCPストリームで通信します。マウス移動は絶対座標ではなくdx・dyの相対量として送信します。",
+        "result": "同じWi-Fi上のMacを検出し、ペアリング後にカーソル、クリック、スクロール、文字入力、ショートカットをiPhoneから操作できるMVPを実装しました。"
+      }
+    },
+    {
+      "component": "features",
+      "props": {
+        "heading": "Features",
+        "items": [
+          {
+            "title": "Trackpad controls",
+            "description": "カーソル移動、左・右クリック、マウスダウン・アップ、スクロールをiPhoneから送信します。"
+          },
+          {
+            "title": "Keyboard input",
+            "description": "文字入力に加え、キーの押下・解放やショートカット操作をMacへ送信します。"
+          },
+          {
+            "title": "Local device discovery",
+            "description": "同じWi-Fi上のMacを検出し、iPhoneから接続できます。"
+          },
+          {
+            "title": "Permission-aware execution",
+            "description": "Mac側でアクセシビリティ権限が許可されるまで、入力イベントを実行しません。"
+          }
+        ]
+      }
+    },
+    {
+      "component": "text",
+      "props": {
+        "heading": "Pairing & Security",
+        "body": "初回接続時はMac側でAllowまたはDenyを選択します。許可されたDevice IDはMacのKeychainへ保存され、次回以降は自動接続されます。未ペアリング端末から届いた入力イベントはすべて拒否されます。"
+      }
+    },
+    {
+      "component": "techStack",
+      "props": {
+        "heading": "Technical Details",
+        "items": [
+          {
+            "name": "Swift / SwiftUI / UIKit",
+            "purpose": "iPhoneの操作画面、トラックパッド入力、Macのメニューバー常駐Helperを構築。"
+          },
+          {
+            "name": "Network.framework",
+            "purpose": "NWConnectionとNWListenerを使い、iPhoneとMacのTCP通信を実装。"
+          },
+          {
+            "name": "Core Graphics Events",
+            "purpose": "受信したコマンドをMac上のマウス・キーボード入力として実行。"
+          },
+          {
+            "name": "Keychain",
+            "purpose": "ペアリングを許可したDevice IDをMac側へ保存。"
+          }
+        ]
+      }
+    },
+    {
+      "component": "text",
+      "props": {
+        "heading": "Scope",
+        "body": "現在のMVPでは、インターネット経由の接続、画面ミラーリング、ファイル転送、AIエージェント連携は対象外です。まず同一LAN内でのトラックパッドとキーボード操作を確実に動かすことに範囲を絞っています。"
+      }
+    },
+    {
+      "component": "links",
+      "props": {
+        "heading": "Source Code",
+        "github": "https://github.com/HiroyukiGPU/RemoteMac"
+      }
+    }
+  ]
+}

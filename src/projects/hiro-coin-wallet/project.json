@@ -1,0 +1,27 @@
+{
+  "slug": "hiro-coin-wallet",
+  "title": "Hiro Coin Wallet",
+  "shortDescription": "迷わず送れて、残高が一目で分かるモバイルウォレット。",
+  "description": "主要操作を絞り、初めてでも使えるウォレット体験を設計しました。",
+  "status": "released",
+  "date": "2025-09-15",
+  "featured": false,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "Swift",
+    "SwiftUI"
+  ],
+  "links": {
+    "website": null,
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "About",
+        "body": "残高確認と送金の安心感を、明確な状態表示と確認フローで支えています。"
+      }
+    }
+  ]
+}

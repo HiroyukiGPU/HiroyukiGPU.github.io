@@ -1,0 +1,18 @@
+{
+  "slug": "12-regex-tester",
+  "title": "正規表現テスター",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/practical-app-portfolio/12-regex-tester/",
+    "github": null
+  },
+  "sections": []
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "20-contact-crm",
+  "title": "顧客管理（CRM）",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://20-contact-crm.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

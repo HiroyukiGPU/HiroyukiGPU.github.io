@@ -1,0 +1,18 @@
+{
+  "slug": "www-2",
+  "title": "時間で自動で音楽を止めるショートカット",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Apple Shortcuts"
+  ],
+  "links": {
+    "website": "https://www.icloud.com/shortcuts/bb2fa8596cac4ff4990e0feea466f85e",
+    "github": null
+  },
+  "sections": []
+}

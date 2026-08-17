@@ -1,0 +1,20 @@
+{
+  "slug": "db-docs-canvas",
+  "title": "ドキュメントみたいにデータベース設計を記録できるサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-17",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://db-docs-canvas.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

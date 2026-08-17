@@ -1,0 +1,18 @@
+{
+  "slug": "send-qr-file",
+  "title": "QRコードでデータを転送する",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/Send_QR_file"
+  },
+  "sections": []
+}

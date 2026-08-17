@@ -1,0 +1,28 @@
+{
+  "slug": "shift-planner",
+  "title": "Shift Planner",
+  "shortDescription": "イベント運営の複雑なシフト調整を、スマートフォンだけで完結。",
+  "description": "イベントスタッフの提出・調整・確認を一つにまとめた運営ツールです。",
+  "status": "released",
+  "date": "2026-04-12",
+  "featured": false,
+  "category": "Tool",
+  "thumbnail": "./cover.png",
+  "tech": [
+    "Next.js",
+    "Firebase"
+  ],
+  "links": {
+    "website": null,
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "Why I built it",
+        "body": "変更が多い現場でも、誰がどこにいるかを迷わず確認できる情報設計を行いました。"
+      }
+    }
+  ]
+}

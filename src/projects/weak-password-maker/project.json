@@ -1,0 +1,20 @@
+{
+  "slug": "weak-password-maker",
+  "title": "弱いパウワードを生成してくれるサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/weak_password_maker"
+  },
+  "sections": []
+}

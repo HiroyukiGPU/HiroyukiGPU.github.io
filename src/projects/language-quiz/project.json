@@ -1,0 +1,20 @@
+{
+  "slug": "language-quiz",
+  "title": "言語当てクイズ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-22",
+  "featured": true,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/language-quiz/",
+    "github": null
+  },
+  "sections": []
+}

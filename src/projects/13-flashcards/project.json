@@ -1,0 +1,18 @@
+{
+  "slug": "13-flashcards",
+  "title": "フラッシュカード（SRS）",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://13-flashcards.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

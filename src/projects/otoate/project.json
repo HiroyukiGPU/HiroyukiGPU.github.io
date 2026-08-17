@@ -1,0 +1,43 @@
+{
+  "slug": "otoate",
+  "title": "Otoate!",
+  "shortDescription": "音だけを頼りに答えを探す、みんなで遊べるリアルタイムクイズ。",
+  "description": "ホストと参加者、それぞれの操作を最適化した音クイズアプリです。",
+  "status": "released",
+  "date": "2026-05-20",
+  "featured": true,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "Flutter",
+    "Firebase",
+    "Dart"
+  ],
+  "links": {
+    "website": "https://oto-ate-ebon.vercel.app/",
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "Experience",
+        "body": "説明を読まなくても参加でき、音に集中できる短いゲームフローを設計しました。"
+      }
+    },
+    {
+      "component": "techStack",
+      "props": {
+        "items": [
+          {
+            "name": "Flutter",
+            "purpose": "iOS・Android共通の参加者体験"
+          },
+          {
+            "name": "Firebase",
+            "purpose": "ルームと回答のリアルタイム同期"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "claude-code-usage",
+  "title": "claude codeの使用量をelectronで見れる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Node.js",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/claude-code-usage"
+  },
+  "sections": []
+}

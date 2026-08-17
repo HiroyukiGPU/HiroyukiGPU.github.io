@@ -1,0 +1,16 @@
+{
+  "slug": "speedwatch",
+  "title": "apple watchで今の自分の速度が見える",
+  "shortDescription": "",
+  "description": "",
+  "status": "development",
+  "date": null,
+  "featured": false,
+  "thumbnail": null,
+  "tech": [],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/SpeedWatch"
+  },
+  "sections": []
+}

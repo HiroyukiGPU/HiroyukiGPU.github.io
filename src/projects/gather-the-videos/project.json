@@ -1,0 +1,18 @@
+{
+  "slug": "gather-the-videos",
+  "title": "動画を特定の時間にするために早めたりおそめたりするpython",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/Gather-the-videos"
+  },
+  "sections": []
+}

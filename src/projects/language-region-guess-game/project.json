@@ -1,0 +1,20 @@
+{
+  "slug": "language-region-guess-game",
+  "title": "言語当てクイズ（その言語が使われている地域の道版）",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/language-region-guess-game/",
+    "github": null
+  },
+  "sections": []
+}

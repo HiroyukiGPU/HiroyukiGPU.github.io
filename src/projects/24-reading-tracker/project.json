@@ -1,0 +1,18 @@
+{
+  "slug": "24-reading-tracker",
+  "title": "読書トラッカー",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/practical-app-portfolio/24-reading-tracker/",
+    "github": null
+  },
+  "sections": []
+}

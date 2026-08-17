@@ -1,0 +1,20 @@
+{
+  "slug": "amehuru",
+  "title": "何秒後に雨が降るか見れるサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/amehuru/",
+    "github": null
+  },
+  "sections": []
+}

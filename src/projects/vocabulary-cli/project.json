@@ -1,0 +1,18 @@
+{
+  "slug": "vocabulary-cli",
+  "title": "CLIで英単語を覚えられる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Go"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/vocabulary_CLI"
+  },
+  "sections": []
+}

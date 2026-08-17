@@ -1,0 +1,18 @@
+{
+  "slug": "youtube-slack-serch",
+  "title": "youtubeをslackみたいに検索する拡張機能",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-10",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/youtube_slack_serch/"
+  },
+  "sections": []
+}

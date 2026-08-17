@@ -1,0 +1,18 @@
+{
+  "slug": "folder-cd",
+  "title": "ターミナルからコマンドを実行すると選んだフォルダーへすぐに移動できるアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-15",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Zsh"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/folder-cd"
+  },
+  "sections": []
+}

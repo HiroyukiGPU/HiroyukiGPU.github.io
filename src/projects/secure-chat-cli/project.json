@@ -1,0 +1,16 @@
+{
+  "slug": "secure-chat-cli",
+  "title": "CLIでチャットをする",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-12",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/secure-chat-cli"
+  },
+  "sections": []
+}

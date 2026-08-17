@@ -1,0 +1,22 @@
+{
+  "slug": "oto-ate",
+  "title": "おとアテ！ネイティブ版",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Electron",
+    "Node.js",
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/oto-ate"
+  },
+  "sections": []
+}

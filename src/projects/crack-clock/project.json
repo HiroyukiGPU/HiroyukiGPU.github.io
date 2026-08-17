@@ -1,0 +1,18 @@
+{
+  "slug": "crack-clock",
+  "title": "パスワードの解読にどれぐらいの時間がかかるかを可視化してくれるサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-11",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/crack-clock/",
+    "github": null
+  },
+  "sections": []
+}

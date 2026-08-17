@@ -1,0 +1,16 @@
+{
+  "slug": "wattflow",
+  "title": "何にmacのバッテリーを消費しているかアニメーションで可視化されるアプリ",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-12",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/wattflow"
+  },
+  "sections": []
+}

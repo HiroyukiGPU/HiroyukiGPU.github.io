@@ -1,0 +1,19 @@
+{
+  "slug": "kamiyamazon",
+  "title": "Kamiyamazon",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-09",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Next.js",
+    "TypeScript"
+  ],
+  "links": {
+    "website": "https://kamiyamazon.vercel.app",
+    "github": null
+  },
+  "sections": []
+}

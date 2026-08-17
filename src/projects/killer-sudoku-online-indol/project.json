@@ -1,0 +1,20 @@
+{
+  "slug": "killer-sudoku-online-indol",
+  "title": "キラー数独online",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-11",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Firebase",
+    "Next.js",
+    "Vercel"
+  ],
+  "links": {
+    "website": "https://killer-sudoku-online-indol.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

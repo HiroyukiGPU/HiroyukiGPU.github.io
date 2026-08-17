@@ -1,0 +1,18 @@
+{
+  "slug": "note-cli",
+  "title": "CLIでメモを作成できる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Go"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/note_CLI"
+  },
+  "sections": []
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "chorus-detection",
+  "title": "youtubeからサビ判定",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/Chorus-Detection"
+  },
+  "sections": []
+}

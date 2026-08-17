@@ -1,0 +1,19 @@
+{
+  "slug": "myportfolio-blush-seven-52",
+  "title": "自分の自己紹介",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML"
+  ],
+  "links": {
+    "website": "https://myportfolio-blush-seven-52.vercel.app/#works",
+    "github": null
+  },
+  "sections": []
+}

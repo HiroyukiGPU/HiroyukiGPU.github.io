@@ -1,0 +1,21 @@
+{
+  "slug": "hex-dominion",
+  "title": "ストラテジーオンラインゲーム",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Node.js",
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://hex-dominion.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

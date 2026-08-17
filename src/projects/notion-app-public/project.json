@@ -1,0 +1,20 @@
+{
+  "slug": "notion-app-public",
+  "title": "Notionでアプリを公開にしたら自動で追加されるサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Node.js",
+    "Notion DB",
+    "Vercel"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/notion_app_public/",
+    "github": null
+  },
+  "sections": []
+}

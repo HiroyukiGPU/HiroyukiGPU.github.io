@@ -1,0 +1,18 @@
+{
+  "slug": "increase-resolution",
+  "title": "イラストの解像度を上げる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/Increase_Resolution"
+  },
+  "sections": []
+}

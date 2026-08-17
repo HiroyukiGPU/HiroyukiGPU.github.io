@@ -1,0 +1,18 @@
+{
+  "slug": "14-poll-maker",
+  "title": "投票作成",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://14-poll-maker.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "syllabus-filter-2",
+  "title": "神山まるごと高専シラバスフィルター",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-25",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/syllabus_filter/",
+    "github": null
+  },
+  "sections": []
+}

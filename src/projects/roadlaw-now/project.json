@@ -1,0 +1,18 @@
+{
+  "slug": "roadlaw-now",
+  "title": "現在地からその国の車の法律を教えてくれる",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-08-11",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "React"
+  ],
+  "links": {
+    "website": "https://hiroyukigpu.github.io/roadlaw-now/",
+    "github": null
+  },
+  "sections": []
+}

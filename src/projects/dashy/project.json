@@ -1,0 +1,19 @@
+{
+  "slug": "dashy",
+  "title": "Dashyをmacのネイティブ用のアプリにする",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-01",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Vue.js",
+    "JavaScript"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/dashy"
+  },
+  "sections": []
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "presentation-recorder",
+  "title": "Presentation Recorder",
+  "shortDescription": "発表資料と話者映像を同時に記録するブラウザツール。",
+  "description": "資料を見せながら説明する収録作業を、ブラウザ内で完結させます。",
+  "status": "released",
+  "date": "2025-07-21",
+  "featured": true,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "React",
+    "Firebase"
+  ],
+  "links": {
+    "website": "https://presentation-recorder.vercel.app/",
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "About",
+        "body": "録画開始までの設定を減らし、発表そのものに集中できる操作フローを構築しました。"
+      }
+    }
+  ]
+}

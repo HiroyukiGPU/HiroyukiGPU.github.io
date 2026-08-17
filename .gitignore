@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+public/project-assets/
+.DS_Store
+.agents/
+.codex/
+CLAUDE.md
+RTK.md

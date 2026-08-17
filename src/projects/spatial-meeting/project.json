@@ -1,0 +1,43 @@
+{
+  "slug": "spatial-meeting",
+  "title": "Spatial Meeting",
+  "shortDescription": "声の距離と方向で、“同じ場所にいる”感覚をつくる音声アプリ。",
+  "description": "空間音声を利用したオンラインコミュニケーションのプロトタイプです。",
+  "status": "released",
+  "date": "2026-06-18",
+  "featured": false,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "React",
+    "WebRTC",
+    "TypeScript"
+  ],
+  "links": {
+    "website": null,
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "Concept",
+        "body": "参加者の位置関係を音に反映し、会話へ自然に出入りできる空間を設計しました。"
+      }
+    },
+    {
+      "component": "features",
+      "props": {
+        "items": [
+          {
+            "title": "Spatial audio",
+            "description": "距離と方向が伝わる音声体験。"
+          },
+          {
+            "title": "Open rooms",
+            "description": "会話の状態を視覚的に把握できます。"
+          }
+        ]
+      }
+    }
+  ]
+}

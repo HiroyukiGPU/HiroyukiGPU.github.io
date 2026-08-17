@@ -1,0 +1,19 @@
+{
+  "slug": "ranzo-project123",
+  "title": "バーコードを一定数印刷するためのサイト",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-06-11",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Next.js",
+    "Vercel"
+  ],
+  "links": {
+    "website": "https://ranzo-project123.vercel.app/",
+    "github": null
+  },
+  "sections": []
+}

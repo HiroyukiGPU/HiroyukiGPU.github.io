@@ -1,0 +1,18 @@
+{
+  "slug": "point-cloud-image",
+  "title": "点群画像生成ツール",
+  "shortDescription": "",
+  "description": "",
+  "status": "released",
+  "date": "2026-07-30",
+  "featured": false,
+  "thumbnail": null,
+  "tech": [
+    "Python"
+  ],
+  "links": {
+    "website": null,
+    "github": "https://github.com/HiroyukiGPU/Point-cloud-image"
+  },
+  "sections": []
+}

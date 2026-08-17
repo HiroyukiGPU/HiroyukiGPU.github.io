@@ -1,0 +1,27 @@
+{
+  "slug": "teacher-evaluation",
+  "title": "Teacher Evaluation",
+  "shortDescription": "匿名性と読みやすさを両立した、授業フィードバック基盤。",
+  "description": "回答者の心理的安全性と、教員にとっての読みやすさを両立した評価システムです。",
+  "status": "released",
+  "date": "2025-05-08",
+  "featured": false,
+  "thumbnail": "./cover.png",
+  "tech": [
+    "Next.js",
+    "Firebase"
+  ],
+  "links": {
+    "website": null,
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "About",
+        "body": "入力負荷を抑えながら、改善に使える具体的な声を集められるフォームを設計しました。"
+      }
+    }
+  ]
+}

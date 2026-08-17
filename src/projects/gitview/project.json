@@ -1,0 +1,28 @@
+{
+  "slug": "gitview",
+  "title": "GitView",
+  "shortDescription": "リポジトリの活動を視覚化し、チームの流れをすばやく把握。",
+  "description": "GitHub上の活動をプロジェクト単位で読み解く可視化ツールです。",
+  "status": "released",
+  "date": "2025-11-02",
+  "featured": false,
+  "category": "Tool",
+  "thumbnail": "./cover.png",
+  "tech": [
+    "React",
+    "TypeScript"
+  ],
+  "links": {
+    "website": null,
+    "github": null
+  },
+  "sections": [
+    {
+      "component": "text",
+      "props": {
+        "heading": "Why I built it",
+        "body": "コミット数だけでなく、開発の流れと変化が理解できる見せ方を目指しました。"
+      }
+    }
+  ]
+}
