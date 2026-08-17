@@ -8,7 +8,7 @@ import { ProjectSectionRenderer } from "@/src/components/project-sections/regist
 import { getAllProjects, getProjectBySlug } from "@/src/lib/projects";
 
 export async function generateStaticParams() { return (await getAllProjects()).map(({ slug }) => ({ slug })); }
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const project = await getProjectBySlug((await params).slug); return project ? { title: `${project.title} — Hiroyuki Miyadera`, description: project.shortDescription } : {}; }
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const project = await getProjectBySlug((await params).slug); return project ? { title: `${project.title} / Hiroyuki Miyadera`, description: project.shortDescription } : {}; }
 
 export default async function ProjectPage({ params }: { params: Promise<{ slug: string }> }) {
   const project = await getProjectBySlug((await params).slug);

@@ -3,7 +3,7 @@ import { Header } from "@/components/header";
 import { ProjectArchive } from "@/components/project-archive";
 import { getReleasedProjects } from "@/src/lib/projects";
 
-export const metadata: Metadata = { title: "Projects — Hiroyuki Miyadera", description: "Web・モバイル・ツール・実験のプロダクトアーカイブ。" };
+export const metadata: Metadata = { title: "Projects / Hiroyuki Miyadera", description: "Web・モバイル・ツール・実験のプロダクトアーカイブ。" };
 
 export default async function ProjectsPage() {
   const projects = await getReleasedProjects();
