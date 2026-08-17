@@ -254,8 +254,21 @@ button { font: inherit; }
 
 .project-filters label { font-size: .75rem; line-height: 1.4; }
 .project-filters select { min-height: 36px; font-size: .875rem; }
+.contact-bottom nav { gap: clamp(1.5rem, 3vw, 2.5rem); }
+.contact-bottom nav a {
+  min-height: 44px;
+  align-items: center;
+  gap: .45rem;
+  font-family: var(--font-geist);
+  font-size: 1.0625rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.contact-bottom nav svg { width: 16px; height: 16px; }
 
 @media (max-width:560px) {
   .row-title small { font-size: .875rem; line-height: 1.55; }
   .hero-proof { line-height: 1.5; }
+  .contact-bottom nav { flex-wrap: wrap; gap: .5rem 1.75rem; }
 }
